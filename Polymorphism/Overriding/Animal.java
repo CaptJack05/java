@@ -1,4 +1,4 @@
-package Polymorphism;
+package Polymorphism.Overriding;
 
 public class Animal {
     void sound() {

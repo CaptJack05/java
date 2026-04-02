@@ -1,5 +1,5 @@
 //Method Overiding or Run time Polymorphism
-package Polymorphism;
+package Polymorphism.Overriding;
 
 public class Dog extends Animal {
     void sound(){

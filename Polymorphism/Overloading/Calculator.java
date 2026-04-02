@@ -1,4 +1,4 @@
-package Overloading;
+package Polymorphism.Overloading;
 
 public class Calculator {
     public static void main(String args[]){

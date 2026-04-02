@@ -1,7 +1,6 @@
-package Polymorphism;
-// Method overloading --> compile time plymorphism
-// Method Overiding  --> Run time polymorphism --> Dynamic Method Dispatch
-
+package Polymorphism.Overriding;
+// Method overloading --> compile time plymorphism  --> happens within same class
+// Method Overiding  --> Run time polymorphism --> Based on Dynamic Method Dispatch
 
 public class Poly {
     public static void main(String args[]){
